@@ -14,6 +14,7 @@ val/
 *.h5
 eval.py
 distribution.py
+*.jpg
 
 *.rsuser
 *.suo

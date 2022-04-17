@@ -131,4 +131,4 @@ def showLoss():
 showAc()
 showLoss()
 
-model.save('modelfin.h5')
+# model.save('modelfin.h5')
