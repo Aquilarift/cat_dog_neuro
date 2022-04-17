@@ -1,2 +1,2 @@
-# pixel_enhance
-Neural net that enhances pixel images.
+# cat_dog_neuro
+Differ dogs from cats
