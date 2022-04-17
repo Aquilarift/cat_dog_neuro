@@ -12,6 +12,8 @@ training/
 train/
 val/
 *.h5
+eval.py
+distribution.py
 
 *.rsuser
 *.suo
